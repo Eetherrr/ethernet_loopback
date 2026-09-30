@@ -1,0 +1,14 @@
+{
+  "compilationOptions": {
+    "topModules": ["top"],
+    "defines": {},
+    "includePaths": ["rtl"]
+  },
+  "index": {
+    "dirs": ["rtl"],
+    "excludeDirs": ["build", "prj", ".slang", ".git"]
+  },
+  "linting": {
+    "enableAllWarnings": false
+  }
+}
